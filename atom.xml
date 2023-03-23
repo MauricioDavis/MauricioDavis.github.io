@@ -6,7 +6,7 @@
   <link href="https://mauriciodavis.github.io/atom.xml" rel="self"/>
   
   <link href="https://mauriciodavis.github.io/"/>
-  <updated>2023-03-23T14:11:19.896Z</updated>
+  <updated>2023-03-23T14:10:59.827Z</updated>
   <id>https://mauriciodavis.github.io/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>固件仿真环境搭建</title>
-    <link href="https://mauriciodavis.github.io/2023/03/23/%E5%9B%BA%E4%BB%B6%E4%BB%BF%E7%9C%9F%E6%B5%81%E7%A8%8B/"/>
-    <id>https://mauriciodavis.github.io/2023/03/23/%E5%9B%BA%E4%BB%B6%E4%BB%BF%E7%9C%9F%E6%B5%81%E7%A8%8B/</id>
-    <published>2023-03-23T13:30:30.000Z</published>
-    <updated>2023-03-23T14:11:19.896Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;em&gt;这边采用的是buildroot+qemu的方式进行环境搭建&lt;/em&gt;&lt;/p&gt;
-&lt;h5 id=&quot;buildroot&quot;&gt;&lt;a href=&quot;#buildroot&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="IOT" scheme="https://mauriciodavis.github.io/categories/IOT/"/>
-    
-    
-    <category term="固件仿真" scheme="https://mauriciodavis.github.io/tags/%E5%9B%BA%E4%BB%B6%E4%BB%BF%E7%9C%9F/"/>
-    
-  </entry>
   
   <entry>
     <title>固件仿真基础环境搭建</title>
