@@ -200,7 +200,7 @@
 <p> 参数</p>
 <p><code>-initrd</code> 指定初始化ram映像，系统在引导过程临时将其挂载为根目录来辅助引导过程，搜索linux文件系统格式就可以知道可以有那些格式，文件中包含引导过程需要的一些工具，一般我们要指定的话可以去debian官网下载，其中包含内核文件和initrd文件直接使用即可</p>
 <p><a target="_blank" rel="noopener" href="https://baike.baidu.com/item/initrd/3239796?fr=aladdin">initrd详细介绍</a><br><a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/582152006">自制initrd文件范例</a></p>
-<p><code>-hdx</code> 指定硬盘映像，也是直接去debian下载就好，自制的话这里随便找了几篇文章以供子阅和大家参考。<code>默认是从abcd开始的所以可以是-hda</code></p>
+<p><code>-hdx</code> 指定硬盘映像，也是直接去debian下载就好，自制的话这里随便找了几篇文章以供自阅和大家参考。<code>默认是从abcd开始的所以可以是-hda</code></p>
 <p><a target="_blank" rel="noopener" href="https://www.qemu.org/docs/master/system/images.html#quick-start-for-disk-image-creation">使用qemu-img制作硬盘映像-官方文档</a><br><a target="_blank" rel="noopener" href="https://blog.csdn.net/z770816239/article/details/53514418">qemu-img制作·····—博客</a><br><a target="_blank" rel="noopener" href="https://wenku.baidu.com/view/4de0d4fb30d4b14e852458fb770bf78a65293ac0.html?_wkts_=1679361010659&bdQuery=qemu+%E5%90%AF%E5%8A%A8%E5%8F%82%E6%95%B0+-append">使用dd，mkfs自制硬盘映像</a></p>
 <p><code>-M</code> 指定板子型号，通过搜索-M tab 列出的内容，理论来说我们仿真的时候就会确定对应路由器应该是可以搜到对应的板子型号</p>
 <p><code>-net 网卡名</code>  模拟环境启动后创建网卡</p>
