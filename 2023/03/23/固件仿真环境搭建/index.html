@@ -233,7 +233,12 @@
 <li>在qemu虚拟机中使用<code>mount -t ext4（如果mkfs格式化为ext4的话） /xxx</code><br>将其挂载到&#x2F;xxx，具体看你想挂载到哪里</li>
 <li>此时qemu虚拟机里就有对应的文件了</li>
 </ol>
-<p><a target="_blank" rel="noopener" href="https://cloud.tencent.com/developer/article/2066731?from=15425&areaSource=102001.1&traceId=l2kBkZlnO3s1USUbw9FDx">mount指令详解</a><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_36179469/article/details/116775194">qemu虚拟机与宿主机使用mount进行文件传输</a>)</p>
+<br>
+
+<p>注：buildroot自动生成的qemu启动脚本中要求 命令行参数1需要为<code>serial-only</code>否则我们按<code>ctrl c</code>会直接退出qemu</p>
+<p><a target="_blank" rel="noopener" href="https://cloud.tencent.com/developer/article/2066731?from=15425&areaSource=102001.1&traceId=l2kBkZlnO3s1USUbw9FDx">mount指令详解</a><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_36179469/article/details/116775194">qemu虚拟机与宿主机使用mount进行文件传输</a></p>
+<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_36179469/article/details/116775194">qemu虚拟机与宿主机使用mount进行文件传输</a></p>
+<p><a target="_blank" rel="noopener" href="https://www.bbsmax.com/A/1O5Eo8V8z7/">mount挂载实质以及不同参数挂载的区别，强烈建议学习</a></p>
 
       </div>
       
