@@ -22,6 +22,8 @@
             
             <tag> cve </tag>
             
+            <tag> 待完善 </tag>
+            
         </tags>
       
     </entry>
@@ -108,7 +110,7 @@
       <link href="/2023/03/11/%E7%AE%80%E4%BB%8B/"/>
       <url>/2023/03/11/%E7%AE%80%E4%BB%8B/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h3 id="hi-guys，welcome-to-my-blog"><a href="#hi-guys，welcome-to-my-blog" class="headerlink" title="hi guys，welcome to my blog."></a>hi guys，welcome to my blog.</h3><p>I am a pwner currently studying iot security and other knowledge of binary</p><br><p><strong>Here are some of my habits：</strong></p><ul><li>发布的文章可能不是最终版本，后面会进行增补(每周会写周报所以不会等到全部弄完发布)</li><li>如果时间充裕的话基本上会固定周二上传一次</li><li>文章内容会根据自己对该问题的理解程度以及巧妙的方法进行详写与略写</li><li>对于文章中写到的待补充之类的话语，如果后面没有忘记的话会更新</li></ul><p><strong>What I plan to learn next is as follows：</strong></p><ul><li>复现iot相方面的漏洞</li><li>做参加的ctf比赛题目</li><li>学习fuzz，看看re相关的书籍</li><li>学习linux内核</li><li>unix网络编程，计算机网络，tcp&#x2F;ip三卷(unix网络编程ing，其他will)</li></ul><p><strong>My contact information</strong></p><p>QQ：2223242484</p><p>如果文章中出现问题可以联系我，感谢</p>]]></content>
       
       
       
