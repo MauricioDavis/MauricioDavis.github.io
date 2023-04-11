@@ -235,6 +235,14 @@
 </ol>
 <br>
 
+<p><strong>还有第二种方法</strong></p>
+<ol>
+<li>在宿主机上运行<code>python3 -m http.server  port(随便一个未占用的即可)</code>，<code>python2 -m SimpleHTTPServer port</code></li>
+<li>在模拟的虚拟机中就可以直接使用<code>wget 宿主机ip：port/文件</code>下载</li>
+</ol>
+<p>注：buildroot自动生成的qemu启动脚本中要求 命令行参数1需要为<code>serial-only</code>否则我们按<code>ctrl c</code>会直接退出qemu</p>
+<br>
+
 <p>注：buildroot自动生成的qemu启动脚本中要求 命令行参数1需要为<code>serial-only</code>否则我们按<code>ctrl c</code>会直接退出qemu</p>
 <p><a target="_blank" rel="noopener" href="https://cloud.tencent.com/developer/article/2066731?from=15425&areaSource=102001.1&traceId=l2kBkZlnO3s1USUbw9FDx">mount指令详解</a><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_36179469/article/details/116775194">qemu虚拟机与宿主机使用mount进行文件传输</a></p>
 <p><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_36179469/article/details/116775194">qemu虚拟机与宿主机使用mount进行文件传输</a></p>
@@ -281,6 +289,11 @@
               
           </div>
           <div class="post-foot-prev">
+            
+              <a href="/2023/04/09/pwnhub2023/" target="_self">
+                <span>下一页</span>
+                <i class="iconfont icon-chevronright"></i>
+              </a>
             
           </div>
         </div>
