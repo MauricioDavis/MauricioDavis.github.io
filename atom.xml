@@ -6,7 +6,7 @@
   <link href="https://mauriciodavis.github.io/atom.xml" rel="self"/>
   
   <link href="https://mauriciodavis.github.io/"/>
-  <updated>2023-04-11T14:15:27.621Z</updated>
+  <updated>2023-04-17T04:56:59.973Z</updated>
   <id>https://mauriciodavis.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>str_cli函数各个版本的区别及问题</title>
+    <link href="https://mauriciodavis.github.io/2023/04/13/str_cli%E5%87%BD%E6%95%B0%E5%90%84%E4%B8%AA%E7%89%88%E6%9C%AC/"/>
+    <id>https://mauriciodavis.github.io/2023/04/13/str_cli%E5%87%BD%E6%95%B0%E5%90%84%E4%B8%AA%E7%89%88%E6%9C%AC/</id>
+    <published>2023-04-13T10:41:34.000Z</published>
+    <updated>2023-04-17T04:56:59.973Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt; &lt;strong&gt;程序的功能是接受用户输入的数据并发送给服务器，接受回射数据进行输出&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+
+&lt;h5 id=&quot;最初版本p100，交互式阻塞于fgets&quot;&gt;&lt;a href=&quot;#最初版本p100，交互式阻塞于fgets&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="programming" scheme="https://mauriciodavis.github.io/categories/programming/"/>
+    
+    
+    <category term="unix network programming" scheme="https://mauriciodavis.github.io/tags/unix-network-programming/"/>
+    
+  </entry>
+  
+  <entry>
     <title>cve-2023-25395 totolinkA7100RU命令注入</title>
     <link href="https://mauriciodavis.github.io/2023/04/11/cve-2023-25395%20totolinkA7100RU%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5/"/>
     <id>https://mauriciodavis.github.io/2023/04/11/cve-2023-25395%20totolinkA7100RU%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5/</id>
     <published>2023-04-11T13:21:29.000Z</published>
-    <updated>2023-04-11T14:15:27.621Z</updated>
+    <updated>2023-04-12T12:51:38.716Z</updated>
     
     
       
